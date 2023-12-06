@@ -1,6 +1,6 @@
-# var_proj
+# tubrujula.es
 
-[![var_proj](/assets/media/logo.png)](https://var_proj/)
+[![tubrujula.es](/assets/media/logo.png)](https://tubrujula.es/)
 
 
 ## STEPS
@@ -9,14 +9,14 @@
 ### Local
 
 - If new project (not fork):
-  - Copy [var_proj project files](https://github.com/var_user/var_proj)
+  - Copy [tubrujula.es project files](https://github.com/tubrujula/tubrujula.es)
   - `git submodule add https://github.com/lorensansol/sansoul.git themes/sansoul`
 - Else if fork:
   - Download submódule theme files: `git submodule update --init --recursive`
 - If you want use svg emojies:
   - `git submodule add https://github.com/lorensansol/sansoul-emojis.git layouts/partials/svg/emojis`
 - Now you can see the run project in the browser with the `do server` comand
-- `README.md` ⏩ edit baseURL ("var_proj") + delete steps bit by bit
+- `README.md` ⏩ edit baseURL ("tubrujula.es") + delete steps bit by bit
 - Design
   - You can edit any file with the same structure of theme sansoul
   - GENERAL
@@ -87,29 +87,29 @@
 #### Domain
 
 - If Netlify
-  - [`Domain Management / settings`](https://app.netlify.com/sites/var_user/settings/domain)
+  - [`Domain Management / settings`](https://app.netlify.com/sites/tubrujula/settings/domain)
   - `Add custom domain`
   - `Check DNS configuration` Copy
   - Add `DNS Records` copied from Netlify to Domain gestor:
-    - From: `var_proj`
+    - From: `tubrujula.es`
       DNS Record: `ALIAS`, `ANAME` or `flattened CNAME`
       To: `apex-loadbalancer.netlify.com`
-    - From: `var_proj`
+    - From: `tubrujula.es`
       DNS Record: `A`
       To: `75.2.60.5`
     - From: `www`
       DNS Record: `CNAME`
-      To: `var_user.netlify.app.`
+      To: `tubrujula.netlify.app.`
     - Maybe you need to eliminate the previous records with similar names
   - `Verify DNS configuration`
   - If it does not work after a while, try `Set as main domain` in the `www` version and also in te `nowww` version
 - If Cloudflare Pages
-  - [Custom domains](https://dash.cloudflare.com/?to=/:account/pages/view/var_user/domains)
+  - [Custom domains](https://dash.cloudflare.com/?to=/:account/pages/view/tubrujula/domains)
   - `Set up a custom domains`
-  - `var_proj`
+  - `tubrujula.es`
   - `Continue`
   - `Activate domain` (if `Begin DNS transfer` end)
-  - Repeat with `www.var_proj`
+  - Repeat with `www.tubrujula.es`
   - ...........................................................
 
 
@@ -117,11 +117,11 @@
 
 - If Netlify Form
   - Don't need configure nothing! Build like you want in local or with CMS
-  - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/var_user/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
+  - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/tubrujula/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
     - `Email to notify` = Emails of collaborators that want receive submissions
-    - `Custom email subject line` = `Formulario de contacto de var_proj`
+    - `Custom email subject line` = `Formulario de contacto de tubrujula.es`
     - `Save`
-  - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/var_user/forms)
+  - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/tubrujula/forms)
 - If Cloudflare Workers
   - ...........................................................
 - [formsubmit.co](https://formsubmit.co/)
@@ -175,7 +175,7 @@
 
 ##### Services Layout
 
-1. [Servicios var_proj](https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK) ⏩ `File ⏩ Make a copy` ⏩ Select client directory.
+1. [Servicios tubrujula.es](https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK) ⏩ `File ⏩ Make a copy` ⏩ Select client directory.
 1. Change the info.
 1. `Share` ⏩ Add emails of collaborators with `Editor` permission.
 
@@ -185,7 +185,7 @@
 Send to all collaborators next:
 
 ```
-*ENTREGA WEB var_proj:* https://seacomoseo.com/entrega/
+*ENTREGA WEB tubrujula.es:* https://seacomoseo.com/entrega/
 ```
 
 ## GADS
