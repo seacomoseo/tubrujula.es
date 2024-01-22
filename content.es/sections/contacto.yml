@@ -2,19 +2,22 @@ title: Contacto
 subtitle: Contáctame sin compromiso
 button: link
 size: sm
-icon: paper-plane
 rows:
 - type: contact
   data:
   - type: schedule
     days: Lunes a Viernes
-    hours: 9:00 - 12:30 y 14:30 - 20:00
+    hours: 17:30 - 21:00
+  - type: schedule
+    days: Sábados
+    hours: 9:00 - 14:00
   - type: br
   - type: phone
     label: 660 935 975
+    button: alt
   - type: whatsapp
     label: 660 935 975
-    button: link
+    button: alt
   - type: mail
     label: ameapsicologia@gmail.com
     full: true

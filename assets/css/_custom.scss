@@ -34,3 +34,16 @@
     margin-bottom: -10em;
   }
 }
+
+
+.quotes {
+  padding-inline: 1.25em;
+  svg:first-child {
+    margin-left: -1.25em;
+    margin-right: .25em;
+  }
+  svg:last-child {
+    margin-right: -1.25em;
+    margin-left: .25em;
+  }
+}

@@ -12,7 +12,7 @@ general:
   image_max: null
   image_align: ''
   uppercase: true
-  underline: false
+  underline: true
   align: ''
   full_screen: false
   padding_hide: false

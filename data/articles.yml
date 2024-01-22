@@ -6,7 +6,7 @@ content:
   underline: false
   align: left
   color: light
-  toc_color: white
+  toc_color: dark
   border: main
   reading_time: true
 common:
@@ -21,7 +21,7 @@ common:
   icon_type: ''
   icon_size: ''
   icon_color: ''
-  image: gradient
+  image: ''
   image_hover: ''
   ratio: 16x9
   contain: false
@@ -39,7 +39,7 @@ common:
   pill: false
   card: false
   hide_shadow: false
-  hide_description: false
+  hide_description: true
   hide_categories: true
   reading_time: true
   licon: ''

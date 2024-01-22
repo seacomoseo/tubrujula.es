@@ -1,8 +1,9 @@
 title: Proceso
 subtitle: ¿Qué pasos seguimos?
-icon: shoe-prints
 rows:
 - type: steps
+  design:
+    border: dark
   items:
   - title: Lorem ipsum
     subtitle: Dolor sit amet
