@@ -8,17 +8,7 @@
 
 ### Local
 
-- If new project (not fork):
-  - Copy [tubrujula.es project files](https://github.com/tubrujula/tubrujula.es)
-  - `git submodule add https://github.com/lorensansol/sansoul.git themes/sansoul`
-- Else if fork:
-  - Download submódule theme files: `git submodule update --init --recursive`
-- If you want use svg emojies:
-  - `git submodule add https://github.com/lorensansol/sansoul-emojis.git layouts/partials/svg/emojis`
-- Now you can see the run project in the browser with the `do server` comand
-- `README.md` ⏩ edit baseURL ("tubrujula.es") + delete steps bit by bit
 - Design
-  - You can edit any file with the same structure of theme sansoul
   - GENERAL
     - `config.yml`
     - `data/*.{yml,md}`
@@ -103,41 +93,6 @@
     - Maybe you need to eliminate the previous records with similar names
   - `Verify DNS configuration`
   - If it does not work after a while, try `Set as main domain` in the `www` version and also in te `nowww` version
-- If Cloudflare Pages
-  - [Custom domains](https://dash.cloudflare.com/?to=/:account/pages/view/tubrujula/domains)
-  - `Set up a custom domains`
-  - `tubrujula.es`
-  - `Continue`
-  - `Activate domain` (if `Begin DNS transfer` end)
-  - Repeat with `www.tubrujula.es`
-  - ...........................................................
-
-
-#### Forms
-
-- If Netlify Form
-  - Don't need configure nothing! Build like you want in local or with CMS
-  - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/tubrujula/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
-    - `Email to notify` = Emails of collaborators that want receive submissions
-    - `Custom email subject line` = `Formulario de contacto de tubrujula.es`
-    - `Save`
-  - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/tubrujula/forms)
-- If Cloudflare Workers
-  - ...........................................................
-- [formsubmit.co](https://formsubmit.co/)
-- If Google Form: [Tutorial](https://seacomoseo.com/instrucciones/#google-forms)
-
-
-#### [Google Analytics](https://analytics.google.com/)
-
-- `Admin ⏩ Libre acount ⏩ New property ⏩ ...` copy ID
-- `data/config.yml ⏩ google_analytics` ⏩ paste ID
-- `Ajustes de datos`
-  - `Recogida de datos`
-    - `Recogida de datos de Google signals ⏩ Empezar`
-    - `Consentimiento de recogida de datos de usuario` ⏩ Check
-  - `Conservación de datos ⏩ Conservación de datos de eventos ⏩ 14 meses ⏩ Guardar`
-- `Conversiones ⏩ Nuevo evento de conversión ⏩ Nombre de evento nuevo` ⏩ add `contact_click` and `contact_form_submit`
 
 
 #### [Google Search Console](https://search.google.com/search-console)
@@ -158,26 +113,6 @@
 #### [Google My Business](https://business.google.com/)
 
 - `Add company ⏩ ...` ⏩ whait 13 days to receive postal and insert code to verify
-
-
-#### [Disqus](https://disqus.com/)
-
-- `data/config.yml ⏩ disqus`
-
-
-#### Collaborators
-
-- [Google Analytics](https://analytics.google.com/) ⏩ `Admin ⏩ Libre acount ⏩ Site ⏩ Property access management ⏩ Add users` ⏩ Add emails of collaborators with role `Reader` or `Admin`.
-- [Google Search Console](https://search.google.com/search-console) ⏩ `Site ⏩ Settings ⏩ Users and permissions ⏩ Add user` Add emails of collaborators with `Full` permission
-- [Google My Business](https://business.google.com/)
-  - `Site ⏩ Users ⏩ Add users` ⏩ Add emails of collaborators with role `Owner`
-
-
-##### Services Layout
-
-1. [Servicios tubrujula.es](https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK) ⏩ `File ⏩ Make a copy` ⏩ Select client directory.
-1. Change the info.
-1. `Share` ⏩ Add emails of collaborators with `Editor` permission.
 
 
 ##### Delivery

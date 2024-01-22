@@ -12,9 +12,9 @@
 }
 #body-inicio #header {
   .image {
-    path {
-      fill: var(--text);
-    }
+    // path {
+    //   fill: var(--text);
+    // }
     transform-origin: center;
     animation: logo-drop 1s 0s both;
   }
@@ -25,4 +25,12 @@
   .subtitle {             @include show-up(2); }
   .description p {        @include show-up(3); }
   .description .buttons { @include show-up(4); }
+  .column--item-1 {
+    .image {
+      max-width: 13em;
+    }
+  }
+  .column--item-2 {
+    margin-bottom: -10em;
+  }
 }

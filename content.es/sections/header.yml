@@ -1,16 +1,19 @@
-title: SanSoul Hugo Theme
-subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
-color: main-dark
-image: logo.svg
-bg: fondo.jpg
-gradient: dark
-description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-  [btn icon-plus Más](#principal)
+anchor: Psicólogo en Molina de Segura (Murcia) y Online
+color: dark
+gradient: black
 more:
   full_screen: true
-  image_min: 18
-  image_max: 20
-  parallax: true
-  gradient_type: linear-r
+  padding_top: 3
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: logo.svg
+    subtitle: y en Molina de Segura
+    description: |
+      icon-quote-left Tú caminas, yo te acompaño icon-quote-right
+      {.h5}
+
+      [btn icon-plus Más](#principal)
+  - image: 2023-12-19--17-00-25.png

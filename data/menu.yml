@@ -1,11 +1,11 @@
 logo: ''
-color: white
+color: dark
 screen_sticky: 600
 size_sticky: ''
 articles_sticky: false
 transparent: true
 hide_anchors: false
-hide_icons: false
+hide_icons: true
 show_modals: true
 show_blog_auto: true
 show_products_auto: true

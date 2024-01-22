@@ -1,5 +1,5 @@
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
+subtitle: Contáctame sin compromiso
 button: link
 size: sm
 icon: paper-plane
@@ -11,36 +11,24 @@ rows:
     hours: 9:00 - 12:30 y 14:30 - 20:00
   - type: br
   - type: phone
-    label: 111 222 333
+    label: 660 935 975
   - type: whatsapp
-    label: 444 555 666
+    label: 660 935 975
     button: link
   - type: mail
-    label: info@sansoul.es
+    label: ameapsicologia@gmail.com
     full: true
-  - type: custom
-    link: https://www.instagram.com/quantumfracture/
-    label: Instagram
-    icon: instagram
-    font_alt: false
-    button: dark
-  - type: custom
-    link: https://www.facebook.com/QuantumFracture
-    label: Facebook
-    icon: facebook-f
-    font_alt: false
-    button: light
   - type: address
     active: true
-    name: ''
-    streetAddress: Ronda de Levante, 1
-    postalCode: 30008
-    addressLocality: Murcia
+    name: Tu Brújula - Psicólogo en Molina de Segura (Murcia) y Online
+    streetAddress: C. Leonardo da Vinci, 39
+    postalCode: 30500
+    addressLocality: Molina de Segura
     addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    coordinates: '{"type":"Point","coordinates":[-1.1993207,38.0540839]}'
   form:
-    fill_inputs: true
+    fill_inputs: false
     items:
     - type: text
       name: Nombre
@@ -53,23 +41,8 @@ rows:
     - type: textarea
       name: Mensaje
       required: true
-  # form:
-  #   fill_inputs: true
-  #   action: https://docs.google.com/forms/d/e/1FAIpQLSeCsNLiGhFPUqbDMibhy3Vwj_ZH08-b7Zd1RAPmPc3H8rcd6w/formResponse
-  #   items:
-  #   - type: text
-  #     name: entry.179409215
-  #     placeholder: Nombre
-  #     required: true
-  #   - type: email
-  #     name: entry.11972367
-  #     placeholder: Email
-  #     required: true
-  #   - type: textarea
-  #     name: entry.1441431029
-  #     placeholder: Mensaje
-  #     required: true
   map:
     active: true
     link: https://g.page/webmurcia
     iframe: ''
+    flip_y: true

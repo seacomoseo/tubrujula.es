@@ -5,7 +5,7 @@ rows:
 - type: reviews
   design:
     num: 3
-    color: white
+    color: dark
     slider: true
   items:
   - title: Lorem I.

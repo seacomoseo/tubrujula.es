@@ -1,8 +1,8 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
+title: Tu Brújula
+description: Psicólogo en Molina de Segura (Murcia) y Online
 logo: logo.png
-legal_name: Nombre Legal de Ejemplo
-legal_dni: 12345678-A
+legal_name: Pablo Hernández
+legal_dni: 48664058Z
 legal_email: ''
 legal_location: ''
 country: España
@@ -10,7 +10,7 @@ location_type:
 - LocalBusiness
 - Organization
 alternate_name:
-- SanSoul
+- Tu Brújula - Psicólogo en Molina de Segura (Murcia) y Online
 price_range: €€
 google_analytics: G-6Z68ELJ8T4
 google_site_verification: ''
@@ -35,12 +35,5 @@ custom_code:
     code: ''
     lang: javascript
 social:
-- link: https://www.facebook.com/QuantumFracture
-- link: https://www.instagram.com/quantumfracture/
-- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-- link: https://twitter.com/QuantumFracture
-- link: https://www.linkedin.com/company/quantum-fracture
-- link: https://gitlab.com/lorensansol
-- link: https://github.com/lorensansol
-- link: https://mastersoflol.com/collections/quantumfracture?YTC
+- link: https://www.instagram.com/ameapsicologia/
 

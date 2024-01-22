@@ -5,8 +5,8 @@ rows:
 - type: columns
   design:
     num_xs: true
-    color: white
-    image: fondo.jpg
+    color: link
+    image: 2023-12-19--16-30-40.png
     inset: true
     uppercase: true
     underline: true

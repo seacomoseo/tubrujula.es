@@ -5,29 +5,29 @@ icons:
 fonts:
   google: true
   base:
-    family: Montserrat
-    weight: 400
+    family: Poppins
+    weight: 300
     strong: 0
     italic: false
     line-height: 1.25
   cursive:
-    family: Dancing Script
-    weight: 400
+    family: Poppins
+    weight: 300
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: Poppins
+    weight: 700
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
-  blockquote_cursive: false
+  blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#7abbb3'
     light: '#fff'
     dark: '#fff'
     contrast: text
@@ -37,31 +37,31 @@ colors:
     dark: '#fff'
     contrast: all
   link:
-    color: '#fe5f55'
-    light: '#fff'
+    color: '#2c5860'
+    light: '#7abbb3'
     dark: '#fff'
-    contrast: text
+    contrast: all
   base:
     white: '#fff'
-    light: '#eee'
+    light: '#fef7e4'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#333333'
     black: '#000'
 rounded:
   radius: 0.33
   chamfer: false
 buttons:
   sides_round: false
-  icon_circle: false
-  deep: false
+  icon_circle: true
+  deep: true
   outline: false
   font_base: false
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.3
   color: black
-  opacity: 0.15
+  opacity: 0.3
 lightbox_overlay:
   opacity: 0.8
   color: black

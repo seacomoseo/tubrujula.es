@@ -1,3 +1,7 @@
+color: dark
+gradient: black
+more:
+  gradient_type: linear-br
 description: |
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}

@@ -18,9 +18,9 @@ general:
   padding_hide: false
   padding_top: null
   padding_bottom: null
-  color: light
-  gradient: ''
-  gradient_type: ''
+  color: black
+  gradient: dark
+  gradient_type: linear-tl
   bg: ''
   opacity: 30
   parallax: true
@@ -31,10 +31,11 @@ general:
   container_gradient_type: ''
   container_opacity: null
   hide_shadow: false
-  divider: curve-side
+  divider: wavy-op
   flip_x: false
   flip_y: false
 alternate:
 - flip_x: true
-  flip_y: true
-  color: white
+  # flip_y: true
+  color: link
+  gradient: main
