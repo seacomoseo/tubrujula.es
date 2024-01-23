@@ -10,27 +10,49 @@
     opacity: 1;
   }
 }
+@keyframes compass {
+  0%{
+    transform: rotate(-360deg) scale(.2);
+  }
+  33% {
+    transform: rotate(90deg);
+  }
+  66% {
+    transform: rotate(-30deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
 #body-inicio #header {
-  .image {
-    // path {
-    //   fill: var(--text);
-    // }
-    transform-origin: center;
-    animation: logo-drop 1s 0s both;
-  }
-  @mixin show-up($delay) {
-    animation: show-up .5s (.5 + .25s * $delay) both;
-  }
-  .section__title {       @include show-up(1); }
-  .subtitle {             @include show-up(2); }
-  .description p {        @include show-up(3); }
-  .description .buttons { @include show-up(4); }
+  // .image {
+  //   path {
+  //     fill: var(--text);
+  //   }
+  //   transform-origin: center;
+  //   animation: logo-drop 1s 0s both;
+  // }
   .column--item-1 {
     .image {
       max-width: 13em;
     }
+    .image__inner {
+      overflow: visible;
+    }
   }
-  .column--item-2 {
+  #logo-compass {
+    transform-origin: center;
+    animation: compass 2s both;
+  }
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  #logo-title {     @include show-up(1); }
+  #logo-subtitle {  @include show-up(2); }
+  .subtitle {       @include show-up(3); }
+  .quotes {         @include show-up(4); }
+  .buttons {        @include show-up(5); }
+  .column--item-2 { @include show-up(6);
     margin-bottom: -10em;
   }
 }

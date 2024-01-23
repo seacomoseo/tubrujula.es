@@ -14,10 +14,9 @@ rows:
   - type: br
   - type: phone
     label: 660 935 975
-    button: alt
   - type: whatsapp
     label: 660 935 975
-    button: alt
+    button: link
   - type: mail
     label: ameapsicologia@gmail.com
     full: true

@@ -30,17 +30,17 @@ colors:
     color: '#7abbb3'
     light: '#fff'
     dark: '#fff'
-    contrast: text
+    contrast: none
   alt:
-    color: '#fff'
+    color: '#2c5860'
     light: '#fff'
     dark: '#fff'
     contrast: all
   link:
     color: '#2c5860'
-    light: '#7abbb3'
+    light: '#fff'
     dark: '#fff'
-    contrast: all
+    contrast: none
   base:
     white: '#fff'
     light: '#fef7e4'

@@ -4,7 +4,7 @@ rows:
 - type: columns
   design:
     num_xs: true
-    color: link
+    color: white
     image: 2023-12-19--16-30-40.png
     inset: true
     uppercase: true

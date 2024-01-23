@@ -4,7 +4,7 @@ rows:
 - type: reviews
   design:
     num: 3
-    color: dark
+    color: light
     slider: true
     interval: 5
   items:

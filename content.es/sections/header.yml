@@ -1,6 +1,6 @@
 anchor: Psicólogo en Molina de Segura (Murcia) y Online
-color: dark
-gradient: black
+# color: dark
+# gradient: black
 more:
   full_screen: true
   padding_top: 3
@@ -13,7 +13,7 @@ rows:
     subtitle: y en Molina de Segura
     description: |
       icon-quote-left Tú caminas, yo te acompaño icon-quote-right
-      {.h5 .quotes}
+      {.quotes}
 
       [btn icon-plus Más](#principal)
   - image: 2023-12-19--17-00-25.png
