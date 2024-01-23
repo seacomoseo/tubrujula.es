@@ -38,12 +38,19 @@
 
 .quotes {
   padding-inline: 1.25em;
+  width: fit-content;
+  margin-inline: auto;
+  svg:not(#aux) {
+    position: absolute;
+    top: unset;
+    margin: 0;
+  }
   svg:first-child {
-    margin-left: -1.25em;
-    margin-right: .25em;
+    // transform: translateX(-1.25em);
+    left: 0;
   }
   svg:last-child {
-    margin-right: -1.25em;
-    margin-left: .25em;
+    // transform: translateX(.25em);
+    right: 0;
   }
 }

@@ -2,7 +2,7 @@
 title: Inicio
 title_seo: 'Tu Brújula: Psicólogo en Molina de Segura (Murcia) y Online'
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
+description: llll➤ Psicoterapia Online y Presencial en Molina de Segura ✅ por Pablo Hernández. Tú caminas, yo te acompaño. Lláma sin compromiso.
 image: fondo.jpg
 draft: false
 noindex: false

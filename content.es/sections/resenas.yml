@@ -6,36 +6,33 @@ rows:
     num: 3
     color: dark
     slider: true
+    interval: 5
   items:
-  - title: Lorem I.
-    subtitle: Beatae Vitae
-    image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+  - title: Miriam H.
     description: |
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+      Pablo es cercano, empático y atento.
 
-      Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.
+      Hace que las conversaciones sean cómodas y agradables.
 
-      Illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
-
-      Explicabo.
-  - title: Sequi N.
-    subtitle: Ratione Voluptatem
-    image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+      Gran profesional.
+  - title: Carmelo H.
     description: |
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
+      Recomiendo completamente a Pablo.
 
-      Fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
-
-      Sequi nesciunt.
-  - title: Quaerat V.
-    subtitle: Magnam Aliquam
-    image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+      Me ha ayudado a entender mis emociones y encontrar claridad en momentos dificiles.
+  - title: Daniel L.
     description: |
-      Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
+      Ambiente seguro y de confianza.
 
-      Consectetur, adipisci velit, sed quia non numquam eius modi tempora.
+      Profesionalismo y ética excepcional.
+  - title: Ana S.
+    description: |
+      Un gran profesional.
 
-      Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+      Muy recomendable.
+  - title: Ascensión G.
+    description: |
+      Profesional excelente
 - type: columns
   items:
   - description: |
