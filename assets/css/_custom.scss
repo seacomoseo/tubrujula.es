@@ -44,35 +44,16 @@
     transform-origin: center;
     animation: compass 2s both;
   }
-  @mixin show-up($delay) {
-    animation: show-up .5s (.5 + .25s * $delay) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s (.5 + .25s * $delay) both;
   }
-  #logo-title {     @include show-up(1); }
-  #logo-subtitle {  @include show-up(2); }
-  .subtitle {       @include show-up(3); }
-  .quotes {         @include show-up(4); }
-  .buttons {        @include show-up(5); }
-  .column--item-2 { @include show-up(6);
+  #logo-title {     @include show-from(1); }
+  #logo-subtitle {  @include show-from(2); }
+  .subtitle {       @include show-from(3); }
+  blockquote {      @include show-from(4); }
+  .buttons {        @include show-from(5); }
+  .column--item-2 { @include show-from(6);
     margin-bottom: -10em;
   }
 }
 
-
-.quotes {
-  padding-inline: 1.25em;
-  width: fit-content;
-  margin-inline: auto;
-  svg:not(#aux) {
-    position: absolute;
-    top: unset;
-    margin: 0;
-  }
-  svg:first-child {
-    // transform: translateX(-1.25em);
-    left: 0;
-  }
-  svg:last-child {
-    // transform: translateX(.25em);
-    right: 0;
-  }
-}

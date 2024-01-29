@@ -12,7 +12,7 @@ rows:
   - image: logo.svg
     subtitle: y en Molina de Segura
     description: |
-      icon-quote-left Tú caminas, yo te acompaño icon-quote-right
+      > Tú caminas, yo te acompaño
       {.quotes}
 
       [btn icon-plus Más](#principal)
