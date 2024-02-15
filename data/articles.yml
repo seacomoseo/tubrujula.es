@@ -6,7 +6,7 @@ content:
   underline: false
   align: left
   color: light
-  toc_color: dark
+  toc_color: white
   border: main
   reading_time: true
 common:

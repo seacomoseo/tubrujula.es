@@ -2,19 +2,17 @@
 title: Inicio
 title_seo: 'Tu Brújula: Psicólogo en Molina de Segura (Murcia) y Online'
 slug: inicio
-description: llll➤ Psicoterapia Online y Presencial en Molina de Segura ✅ por Pablo Hernández. Tú caminas, yo te acompaño. Lláma sin compromiso.
+description: llll➤ Un espacio seguro donde encontrarte. ✅ Psicoterapia Online y Presencial en Molina de Segura, Murcia. Por Pablo Hernández. Lláma sin compromiso.
 image: fondo.jpg
 draft: false
 noindex: false
 translationKey: home
 sections:
 - file: header
+- file: tu-brujula
 - file: quien-soy
-- file: servicios
-  modals:
-  - ejemplo
-- file: proceso
-- file: faq
+- file: pasos
+- file: divulgacion
 - file: resenas
 - file: contacto
 ---

@@ -1,0 +1,63 @@
+anchor: Enfoque
+title: Tu Brújula
+subtitle: Enfoque
+bg: fondo.jpg
+color: dark
+description: |
+  Tu brújula nace de la idea de crear un espacio seguro dónde las personas tengan acceso a una terapia de calidad, basada en la evidencia científica y ajustada a sus necesidades.
+  Desde una perspectiva integral, Tu brújula pretende ofrecer la terapia que más se ajuste a tu situación siempre desde la honestidad y la profesionalidad que queremos transmitir.
+
+  Por ello, aquí te dejamos los **==icon-sign-circle enfoques==** desde los que solemos trabajar:
+more:
+  align: center
+rows:
+
+# - type: columns
+#   design:
+#     gap: 3
+#     uppercase: true
+#     underline: true
+#     align: left
+#   items:
+#   # - # order: 2
+#   #   bg: fondo.jpg
+#   - # order: 1
+#     description: |
+#       Tu brújula nace de la idea de crear un espacio seguro dónde las personas tengan acceso a una terapia de calidad, basada en la evidencia científica y ajustada a sus necesidades.
+
+#       Desde una perspectiva integral, Tu brújula pretende ofrecer la terapia que más se ajuste a tu situación siempre desde la honestidad y la profesionalidad que queremos transmitir.
+
+#       Por ello, dejamos abajo los enfoques desde los que solemos trabajar:
+#     # more:
+#     #   align_xl: right
+
+# - type: columns
+#   items:
+#   - description: |
+#       ---
+
+- type: columns
+  design:
+    num_xs: true
+    # color: light
+    # image: 2023-12-19--16-30-40.png
+    # inset: true
+    # uppercase: true
+    underline: true
+    # icon_color: light
+  items:
+  - icon: brain
+    title: Cognitivo Conductual
+    description: Transformando pensamientos para mejorar la conducta.
+  - icon: hands-holding-heart
+    title: Aceptación y Compromiso
+    description: Aceptar emociones, comprometerse con el cambio.
+  - icon: heart-crack
+    title: Trauma y <br> Apego
+    description: Sanando heridas, fortaleciendo vínculos.
+  - icon: masks-theater
+    title: Psicodinámica
+    description: Descubriendo raíces emocionales, liberando el presente.
+  - icon: puzzle-piece
+    title: Terapia Breve Estratégica (TBE)
+    description: Soluciones rápidas, cambios profundos y duraderos.

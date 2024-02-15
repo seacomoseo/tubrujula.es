@@ -1,5 +1,5 @@
 title: Reseñas
-subtitle: ¿Qué dicen de nosotros?
+subtitle: ¿Qué dicen de mi?
 rows:
 - type: reviews
   design:
@@ -15,11 +15,11 @@ rows:
       Hace que las conversaciones sean cómodas y agradables.
 
       Gran profesional.
-  - title: Carmelo H.
-    description: |
-      Recomiendo completamente a Pablo.
+  # - title: Carmelo H.
+  #   description: |
+  #     Recomiendo completamente a Pablo.
 
-      Me ha ayudado a entender mis emociones y encontrar claridad en momentos dificiles.
+  #     Me ha ayudado a entender mis emociones y encontrar claridad en momentos dificiles.
   - title: Daniel L.
     description: |
       Ambiente seguro y de confianza.

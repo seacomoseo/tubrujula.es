@@ -1,25 +1,27 @@
 title: Quién soy
-subtitle: Lorem ipsum dolor sit amet
+subtitle: Sobre mi
 rows:
 - type: columns
   design:
-    num: 3
     gap: 3
-    uppercase: true
     underline: true
+    align_y: bottom
     align: left
   items:
-  - image: 2023-12-19--17-11-27.png
-  - span: 2
+  - order: 2
+    title: Pablo Hernández
+    subtitle: Psicólogo Online en Molina de Segura, Murcia
     description: |
-      Lorem ipsum dolor sit amet. Consectetur adipiscing elit. Sed do eiusmod tempor incididunt. Ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet. Consectetur adipiscing elit. Sed do eiusmod tempor incididunt. Ut labore et dolore magna aliqua.
+      Soy Pablo Hernández, Psicólogo General Sanitario y Director de **Tu Brújula**.
 
-      Lorem ipsum dolor sit amet. Consectetur adipiscing elit. Sed do eiusmod tempor incididunt.
+      Mi trabajo consiste en **==icon-sign-circle ayudar==** a las personas.
 
-      Ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet. Consectetur adipiscing elit. Sed do eiusmod tempor incididunt. Ut labore et dolore magna aliqua.
+      Desde hace años me dedico la psicología con el objetivo de sanar, aliviar y potenciar a cada persona con la que trabajo, acompañando a personas desde la cercanía, la profesionalidad y la evidencia científica.
 
-      Lorem ipsum dolor sit amet. Consectetur adipiscing elit. Sed do eiusmod tempor incididunt. Ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet. Consectetur adipiscing elit. Sed do eiusmod tempor incididunt. Ut labore et dolore magna aliqua.
+      Con una base cognitivo conductual e integrando los últimos avances en terapias de tercera generación; acompañar, escuchar, preguntar y empoderar serán las principales herramientas que emplearé durante mis sesiones.
 
-      Lorem ipsum dolor sit amet. Consectetur adipiscing elit. Sed do eiusmod tempor incididunt.
+      Si te encuentras en un proceso de crisis, una herida que no sana, un laberinto sin salida, o simplemente quieres encontrar tu mejor versión, no dudes en preguntar y estaré encantado de ayudarte.
 
-      Ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet. Consectetur adipiscing elit. Sed do eiusmod tempor incididunt. Ut labore et dolore magna aliqua.
+      Te espero.
+  - order: 1
+    image: 2023-12-19--17-11-27.png

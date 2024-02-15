@@ -1,5 +1,5 @@
 title: Contacto
-subtitle: Contáctame sin compromiso
+subtitle: ¿Cómo puedo ayudarte?
 button: link
 size: sm
 rows:
@@ -22,7 +22,7 @@ rows:
     full: true
   - type: address
     active: true
-    name: Tu Brújula - Psicólogo en Molina de Segura (Murcia) y Online
+    name: Tu Brújula
     streetAddress: C. Leonardo da Vinci, 39
     postalCode: 30500
     addressLocality: Molina de Segura

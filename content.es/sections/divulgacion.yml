@@ -1,0 +1,49 @@
+title: Divulgación
+subtitle: ¿Qué procesos seguimos?
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    ratio: 16x9
+    inset: true
+    button: hide
+    align: left
+    # card: true
+    slider: true
+    interval: 8
+  items:
+  - title: Nuestros abuelos se desvivieron por sus padres y ahora están viendo como sus hijos o no quieren o no pueden cuidarlos
+    description: |
+      icon-calendar 2023-12-07
+      icon-link radiomolina.com
+
+      La soledad no deseada afecta a más del 60% de las personas mayores en nuestro país
+    image: https://radiomolina.com/wp-content/uploads/bfi_thumb/img_9019-scaled-3dj3s5wfrx9f32ea360bohyz4u8d4j4smpm1ptctw8takc90o.jpg
+    link: https://radiomolina.com/podcast/nuestros-abuelos-se-desvivieron-por-sus-padres-y-ahora-estan-viendo-como-sus-hijos-o-no-quieren-o-no-pueden-cuidarlos-la-soledad-no-deseada-afecta-a-mas-del-60-de-las-personas-mayores-en-nuestro/
+  - title: 'Rompiendo Tabúes: La lucha continúa en la comprensión y tratamiento de la depresión'
+    description: |
+      icon-calendar 2024-02-07
+      icon-link infomolina.es
+
+      El pasado 13 de enero se “celebró” el día Mundial de la lucha contra la Depresión. Esta fecha se...
+    image: https://infomolina.es/wp-content/uploads/2024/01/articulo-depresion_ia-780x470.jpg
+    link: https://infomolina.es/salud/rompiendo-tabues-la-lucha-continua-en-la-comprension-y-tratamiento-de-la-depresion/
+  - title: Enero, un mal mes para la salud mental
+    description: |
+      icon-calendar 2024-01-11
+      icon-link radiomolina.es
+
+      Enero es un mes con mala fama porque además de la subida generalizada de precios venimos de dejar atrás...
+    image: https://radiomolina.com/wp-content/uploads/bfi_thumb/82870104-f75e-4395-8c98-ca2d5a76c2bf-3drai7ldqpifuqsbntky2swmdzh9izw9p517k5gqtp901s78o.jpg
+    # image: 2023-12-19--16-30-40.jpg
+    link: https://radiomolina.com/podcast/enero-un-mal-mes-para-la-salud-mental/
+  - title: La familia. La teoría del apego y traumas infantiles
+    description: |
+      icon-calendar 2024-01-08
+      icon-link radiomolina.es
+
+      Los vínculos que establecemos con nuestros progenitores, hermanas y hermanos,  nos marcan de por vida...
+    image: https://radiomolina.com/wp-content/uploads/bfi_thumb/diseno-sin-titulo-7-3-3dxj6fvluqr7gbyfrpm2mdz7s9uqjllgdoxhg7p0yf95lm6qw.png
+    # image: 2023-12-19--17-00-25.jpg
+    link: https://radiomolina.com/podcast/la-familia-la-teoria-del-apego-y-traumas-infantiles/

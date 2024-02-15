@@ -1,0 +1,28 @@
+id: pasos
+title: Pasos
+subtitle: Para reservar tu sesión
+rows:
+- type: steps
+  design:
+    border: dark
+  items:
+  - title: Contacto
+    description: |
+      ¡Dale click al botón de WhatsApp!
+
+      (o email o formulario)
+
+      [btn icon-paper-plane Contacto](#contacto)
+  - title: Datos
+    description: |
+      Escribe tu nombre, apellidos, edad y un horario disponible para consultas y te contactaré lo antes posible
+  - title: Prueba
+    description: El día de tu sesión conéctate 15 minutos antes para reservar la sesión y evitar  incidencias
+  - title: Google Meet
+    description: |
+      Abre el enlace de reunión que te enviaré
+
+      [btn icon-google-meet Google Meet](https://meet.google.com/ "nofollow")
+  - title: ¡Sesión!
+    description: |
+      Nos conectarnos y recibes tu sesión

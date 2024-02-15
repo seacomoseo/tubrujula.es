@@ -36,6 +36,5 @@ general:
   flip_y: false
 alternate:
 - flip_x: true
-  # flip_y: true
   color: main
   gradient: alt
