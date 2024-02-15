@@ -13,14 +13,6 @@ rows:
     slider: true
     interval: 8
   items:
-  - title: Nuestros abuelos se desvivieron por sus padres y ahora están viendo como sus hijos o no quieren o no pueden cuidarlos
-    description: |
-      icon-calendar 2023-12-07
-      icon-link radiomolina.com
-
-      La soledad no deseada afecta a más del 60% de las personas mayores en nuestro país
-    image: https://radiomolina.com/wp-content/uploads/bfi_thumb/img_9019-scaled-3dj3s5wfrx9f32ea360bohyz4u8d4j4smpm1ptctw8takc90o.jpg
-    link: https://radiomolina.com/podcast/nuestros-abuelos-se-desvivieron-por-sus-padres-y-ahora-estan-viendo-como-sus-hijos-o-no-quieren-o-no-pueden-cuidarlos-la-soledad-no-deseada-afecta-a-mas-del-60-de-las-personas-mayores-en-nuestro/
   - title: 'Rompiendo Tabúes: La lucha continúa en la comprensión y tratamiento de la depresión'
     description: |
       icon-calendar 2024-02-07
@@ -47,3 +39,11 @@ rows:
     image: https://radiomolina.com/wp-content/uploads/bfi_thumb/diseno-sin-titulo-7-3-3dxj6fvluqr7gbyfrpm2mdz7s9uqjllgdoxhg7p0yf95lm6qw.png
     # image: 2023-12-19--17-00-25.jpg
     link: https://radiomolina.com/podcast/la-familia-la-teoria-del-apego-y-traumas-infantiles/
+  - title: Nuestros abuelos se desvivieron por sus padres y ahora están viendo como sus hijos o no quieren o no pueden cuidarlos
+    description: |
+      icon-calendar 2023-12-07
+      icon-link radiomolina.com
+
+      La soledad no deseada afecta a más del 60% de las personas mayores en nuestro país
+    image: https://radiomolina.com/wp-content/uploads/bfi_thumb/img_9019-scaled-3dj3s5wfrx9f32ea360bohyz4u8d4j4smpm1ptctw8takc90o.jpg
+    link: https://radiomolina.com/podcast/nuestros-abuelos-se-desvivieron-por-sus-padres-y-ahora-estan-viendo-como-sus-hijos-o-no-quieren-o-no-pueden-cuidarlos-la-soledad-no-deseada-afecta-a-mas-del-60-de-las-personas-mayores-en-nuestro/
