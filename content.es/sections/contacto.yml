@@ -18,7 +18,7 @@ rows:
     label: 681 91 48 69
     button: link
   - type: mail
-    label: ameapsicologia@gmail.com
+    label: info@tubrujula.es
     full: true
   - type: address
     active: true
