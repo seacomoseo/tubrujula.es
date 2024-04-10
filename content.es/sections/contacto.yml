@@ -7,10 +7,10 @@ rows:
   data:
   - type: schedule
     days: Lunes a Viernes
-    hours: 17:30 - 21:00
+    hours: 10:00 - 14:00 y 16:00 - 20:00
   - type: schedule
     days: Sábados
-    hours: 9:00 - 14:00
+    hours: 10:00 - 14:00
   - type: br
   - type: phone
     label: 681 91 48 69
