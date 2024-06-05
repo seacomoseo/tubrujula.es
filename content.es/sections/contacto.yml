@@ -22,13 +22,22 @@ rows:
     full: true
   - type: address
     active: true
-    name: Tu Brújula
-    streetAddress: C. Leonardo da Vinci, 39
-    postalCode: 30500
-    addressLocality: Molina de Segura
+    # name: Tu Brújula
+    streetAddress: C Sagasta, 9
+    postalCode: '30004'
+    addressLocality: Murcia
     addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1993207,38.0540839]}'
+    coordinates: '{"type":"Point","coordinates":[-1.1358244,37.9843228]}'
+  # - type: address
+  #   active: true
+  #   name: Tu Brújula
+  #   streetAddress: C. Leonardo da Vinci, 39
+  #   postalCode: 30500
+  #   addressLocality: Molina de Segura
+  #   addressRegion: Murcia
+  #   addressCountry: España
+  #   coordinates: '{"type":"Point","coordinates":[-1.1993207,38.0540839]}'
   form:
     fill_inputs: false
     items:

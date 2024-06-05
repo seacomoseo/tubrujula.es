@@ -1,5 +1,5 @@
 title: Tu Brújula
-description: Psicólogo en Molina de Segura (Murcia) y Online
+description: Psicólogo en Murcia y Online
 logo: logo.png
 legal_name: Pablo Hernández
 legal_dni: 48664058Z
@@ -10,8 +10,8 @@ location_type:
 - LocalBusiness
 - Organization
 alternate_name:
-- Tu Brújula - Psicólogo en Molina de Segura (Murcia) y Online
-- Tu Brújula - Psicólogo en Molina de Segura, Murcia
+- Tu Brújula - Psicólogo en Murcia y Online
+- Tu Brújula - Psicólogo en Murcia
 - Tu Brújula - Psicólogo Online
 - Tu Brújula - Pablo Hernández
 price_range: €€
@@ -39,7 +39,7 @@ custom_code:
     lang: javascript
 social:
 - link: https://g.page/r/CYxBfejFNGtREBM
-- link: https://www.instagram.com/ameapsicologia/
+# - link: https://www.instagram.com/ameapsicologia/
 - link: https://www.linkedin.com/in/pablo-hern%C3%A1ndez-garc%C3%ADa-68b92b114/
 - link: https://www.mundopsicologos.com/centros/pablo-hernandez-garcia
   icon: mundopsicologos
